@@ -49,6 +49,7 @@ def console_translator():
 
 
 def main_program():
+    print("\nWelcome to the Morsecode Translater")
     console_translator()
 
 
